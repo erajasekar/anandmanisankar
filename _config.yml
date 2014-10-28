@@ -12,7 +12,7 @@ title:            ANAND MANI SANKAR
 tagline:          "thoughts.toString( )"
 description:      'Ramblings and opinionated thoughts on technology.'
 url:              http://anandmanisankar.com
-baseurl:          '/'
+baseurl:          '/anandmanisankar'
 paginate:         3
 excerpt_separator: "<br>"
 gems:
